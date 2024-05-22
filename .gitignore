@@ -1,0 +1,7 @@
+/node_modules/
+
+package-lock.json
+
+Public/CSS/app.css
+Public/JS/app.css
+Public/JS/app.js.LICENSE.txt
